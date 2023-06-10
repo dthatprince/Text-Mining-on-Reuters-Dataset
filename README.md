@@ -4,8 +4,6 @@ This project focuses on applying text analysis, classification, and clustering m
 
 ## Project Details
 
-- **Due Date**: June 18th, 2023
-
 ## Dataset
 
 The dataset used for this project is the Reuters collection of documents. It is already split into a training set and a test set, each containing 91 topics/subfolders.
