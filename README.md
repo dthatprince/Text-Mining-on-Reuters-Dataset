@@ -18,7 +18,7 @@ The dataset used for this project is the Reuters collection of documents. It is 
 
 ### Cleaning the Data
 
-To clean the data, we will use R and the `readtext` library. The data will be processed to remove non-alphabetic characters, extra whitespaces, and convert the text to lowercase.
+To clean the data, I used R and the `readtext` library. The data was processed to remove non-alphabetic characters, extra whitespaces, and convert the text to lowercase.
 
 ### Statistics
 
@@ -42,7 +42,7 @@ To clean the data, we will use R and the `readtext` library. The data will be pr
 
 ### Cleaning, Tokenizing, and Lemmatizing the Data
 
-In Python, we will use the `nltk` library for cleaning, tokenizing, and lemmatizing the data. This will involve removing unwanted characters, splitting the text into words, and reducing words to their base form.
+In Python, I used the `nltk` library for cleaning, tokenizing, and lemmatizing the data. This will involve removing unwanted characters, splitting the text into words, and reducing words to their base form.
 
 ### Statistics
 
